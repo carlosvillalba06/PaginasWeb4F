@@ -1,0 +1,38 @@
+.titulo{
+
+    color: purple;
+    text-align: center;
+    font-size: 35px;
+}
+
+
+.tarea {
+  flex: 1;
+  padding: 10px;
+  border: 2px solid #66a6ff;
+  border-radius: 8px;
+}
+
+.lblTarea{
+    color: rgb(11, 92, 255);
+    font-size: 25px;
+}
+
+
+.btnAgregarTarea{
+    background-color: darkblue;
+    padding: 15px 15px;
+    border-radius: 8px;
+    color: white;
+}
+
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+.completada {
+    text-decoration: line-through; 
+    color: gray; 
+}
